@@ -1,2 +1,9 @@
 # RADH_PRACTISE_PYTHON
-This repo is made so i can share my solutions
+
+***Practice python is a website that provides multiple coding challenges that you can solve, There are over 30 beginner Python exercises just waiting to be solved***
+
+---
+
+#####*Link of the websiste:* [PRACTISE_PYTHON](https://www.practicepython.org)
+
+---
